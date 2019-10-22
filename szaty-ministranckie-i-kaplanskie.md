@@ -1,0 +1,109 @@
+# Szaty ministranckie i kapłańskie
+
+## Sutanna/Sutanela ministrancka
+
+Jest to długa do kostek suknia koloru czerwonego lub zgodnego z kolorem szat liturgicznych danego dnia.
+
+![&#x179;r&#xF3;d&#x142;o: http://www.korbik.com.pl/wp-content/uploads/2015/02/tunika-z-rekawami-540x531.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/sutanela.jpg)
+
+## Komża
+
+Jest to krótsza szata biała sięgająca do kolan. Jeżeli jest używana sutanna/sutanela ministrancka, komżę zawsze zakładamy na nią.
+
+![&#x179;r&#xF3;d&#x142;o: https://0.allegroimg.com/s512/0116f0/3a31d15e43be9d7c0bbdc2114ed0 \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/komza.png)
+
+## Alba
+
+\(_alba vestis;_ od łac. _albus_ – biały\)
+
+Jest to szata barwy białej, od szyi aż do stóp opadająca, zakładana na sutannę lub strój cywilny. Przewiązuje się ją cingulum.
+
+Symbolizuje łaskę Chrztu świętego.
+
+![&#x179;r&#xF3;d&#x142;o: https://e-religijne.pl/environment/cache/images/0\_0\_productGfx\_22cebd9c76ef0812f7625b76ace01323.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/alba.jpg)
+
+## Cingulum \(pasek\) <a id="cingulum"></a>
+
+Jest to długi sznurek okrągły, często zakończony ozdobnymi frędzlami. Jest on koloru białego lub zgodnego z kolorem szat liturgicznych danego dnia.
+
+Jest symbolem powściągliwości i czystości.
+
+![&#x179;r&#xF3;d&#x142;o: http://www.pietrobon.it/wp-content/uploads/2017/11/cingoli-610-1024x1024.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/cingulum.jpg)
+
+## Humerał
+
+\(od łac. _humeri_ – ramiona\)
+
+Jest to biała chusta, służąca do zakrywania szyi, ramion i wystającego spod alby stroju cywilnego.  
+Dzisiaj praktycznie nie używana, ponieważ większość alb posiada usztywnione kołnierze, jednak w przypadku ich braku nadal używa się humerału. Ponadto w niektórych sanktuariach, ze względów praktycznych i dla ochrony droższych szat przed potem, jest on dalej używany.
+
+![&#x179;r&#xF3;d&#x142;o: http://ministrant.krzyz.org/images/humeral.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/humeral.jpg)
+
+## Stuła
+
+\(_stola_\)
+
+Jest symbolem świętej władzy kapłańskiej.
+
+![&#x179;r&#xF3;d&#x142;o: https://urbanowiczhaft.pl/wp-content/uploads/2016/09/p\_4\_7\_9\_8\_4798-thickbox\_default-Stula-haftowana-z-wizerunkiem-Sw.-Jana-Pawla-II.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/stula.jpg)
+
+## Dalmatyka
+
+\(_dalmatica_\)
+
+Jest to szata diakona.
+
+![&#x179;r&#xF3;d&#x142;o: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Haftowana\_Dalmatyka\_-\_SACROEXPO-2013-06-17.jpg/400px-Haftowana\_Dalmatyka\_-\_SACROEXPO-2013-06-17.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/dalmatyka.jpg)
+
+## Ornat
+
+\(łac. _ornatus_ – ubiór\)
+
+Jest to ozdobna szata wierzchnia w całości okrywająca kapłana, używana w trakcie Mszy świętej.
+
+![&#x179;r&#xF3;d&#x142;o: http://delectio.pl/environment/cache/images/500\_500\_productGfx\_75b914b0b75686e9fd1649c9b659e0c9.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/ornat.jpg)
+
+![&#x179;r&#xF3;d&#x142;o: https://www.ornaty.net/pol\_pm\_Ornat-rzymski-R518-AZ50-3104\_9.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/ornat_rzymski.jpg)
+
+## Kapa
+
+\(pluwjał, łac. _pallium pluviale_\)
+
+Jest to ozdobna szata wierzchnia, stosowana przez kapłana poza Mszą świętą, np. w trakcie nabożeństw lub Oficjum.
+
+![&#x179;r&#xF3;d&#x142;o: https://www.ornaty.net/pol\_pm\_Kapa-rzymska-KT630-C25-141\_4.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/kapa.jpg)
+
+## Welon naramienny
+
+Jest to szeroki pas tkaniny \(zwykle przyozdobiony symbolami eucharystycznymi\) nakładany na ramiona celebransa przed błogosławieństwem Najświętszym Sakramentem; używany także w czasie procesji przez celebransa niosącego monstrancję.
+
+![&#x179;r&#xF3;d&#x142;o: https://urbanowiczhaft.pl/wp-content/uploads/2016/09/p\_7\_5\_8\_758-thickbox\_default-Welon-haftowany-IHS-z-Klosami.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/welon_naramienny.jpg)
+
+## **Piuska**
+
+Jest to mała, okrągła czapeczka, noszona na szczycie głowy przez biskupów i niektóre zakony.
+
+![&#x179;r&#xF3;d&#x142;o: http://static.myvimu.com/photo/63/56263\_m.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/pisuka.jpg)
+
+## Mitra \(infuła\)
+
+Jest to nakrycie głowy biskupów noszone podczas pełnienia czynności liturgicznych.
+
+Jest symbolem władzy nauczycielskiej biskupa. Dwie części mitry są symbolem Starego i Nowego Testamentu.
+
+![&#x179;r&#xF3;d&#x142;o: https://www.ornaty.net/pol\_pm\_Mitra-M17-G54-6767\_3.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/mitra.jpg)
+
+## **Pastorał** \(_baculus pastoralis_\)
+
+Jest to laska pasterska wykonana z mniej lub bardziej drogocennego kruszcu, z zakrętem w górze.
+
+Jest symbolem władzy pasterskiej biskupa.
+
+![&#x179;r&#xF3;d&#x142;o: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Crosiere\_of\_arcbishop\_Arnold\_II\_of\_Isenburg.jpg/296px-Crosiere\_of\_arcbishop\_Arnold\_II\_of\_Isenburg.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/pastoral.jpg)
+
+## Bibliografia
+
+* Bp. A. J. Nowowiejski, _Ceremonjał Parafialny_, B-cia Detrychowie, Płock 1931
+* E. Nübold, E. Stencel, _Przy ołtarzu Pana_, Wydawnictwo Bernardinum, Pelplin 2008
+* P. Krzyżewski, ks. J Zjawin, _Mały słownik służby liturgicznej_, Wydawnictwo Święty Wojciech, Poznań 2011
+
