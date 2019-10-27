@@ -9,6 +9,18 @@ W procesjach wyjścia obowiązują podobne zasady jak przy procesjach wejścia �
 
 ![Duszpasterstwo S&#x142;u&#x17C;by Liturgicznej Archidiecezji Pozna&#x144;skiej, Kurs Ceremoniarza](.gitbook/assets/procesja_wejscia_wyjscia.jpg)
 
+Ministranci niosący:
+
+* trybularz,
+* łódkę,
+* krzyż,
+* akolitkę,
+* Ewangeliarz
+
+nie przyklękają po przyjściu przed stopnie ołtarza, a jedynie czynią skłon ciała i udają się na swoje miejsca. **Pozostali ministranci przyklękają.**
+
+Ceremoniarz, ministranci towarzyszący celebransowi \(lub diakoni\) oraz ministranci wyznaczeni do Episkopaliów przyklękają razem z celebransem.
+
 ## Procesja teoforyczna
 
 ![Duszpasterstwo S&#x142;u&#x17C;by Liturgicznej Archidiecezji Pozna&#x144;skiej, Kurs Ceremoniarza](.gitbook/assets/procesja_teforyczna.jpg)
