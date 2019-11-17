@@ -22,5 +22,5 @@ Do patronów ministrantów należą:
 
 {% embed url="https://pl.aleteia.org/2017/12/20/dlaczego-warto-byc-ministrantem-5-zyciowych-nauk-z-17-letniej-sluzby-przy-oltarzu/?fbclid=IwAR2ReHha2LHqgz\_79WdOxDMuwJe2TwcWH3djOKZ-gvhZo4UT\_JYc6ekkzbE" caption="Michał Borek, Dlaczego warto być ministrantem? 5 życiowych nauk z 17-letniej służby przy ołtarzu \[dostęp: 15:13 18.07.2019\]" %}
 
-
+{% embed url="https://www.vaticannews.va/pl/papiez/news/2019-11/papiez-przeslanie-ministranci-francja0.html?fbclid=IwAR2Dav5W\_OAIrkW2A22DmV9wdWeYPLoZqYt9xVNtVtz-09LqrtzWencn-8c" caption="Papież Franciszek, Przesłanie do francuskich ministrantów \[dostęp: 17:37 17.11.2019\]" %}
 
