@@ -16,7 +16,9 @@ Są wykorzystywane w trakcie Mszy do Lavabo, przy chrzcie świętym, etc.
 
 \(_corporale_\)
 
-Jest to kwadratowa chusta czy obrus płócienny, na którym w czasie Mszy świętej składa się patenę i kielich oraz puszki i monstrancję. Do niczego innego nie może być używany. Jeżeli na korporale jest wyszyty krzyż, powinien się on znajdować po rozłożeniu na środku lub na dole, patrząc od strony kapłana.
+Jest to kwadratowa chusta czy obrus płócienny, na którym w czasie Mszy świętej składa się patenę i kielich oraz puszki i monstrancję. Do niczego innego nie może być używany.
+
+Jeżeli na korporale jest wyszyty krzyż, powinien się on znajdować po rozłożeniu na środku lub na dole, patrząc od strony kapłana.
 
 ![&#x179;r&#xF3;d&#x142;o: http://s2.manifo.com/usr/3/39ad/7f/manager/podrecznik/dscf6666.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/korporal.jpg)
 

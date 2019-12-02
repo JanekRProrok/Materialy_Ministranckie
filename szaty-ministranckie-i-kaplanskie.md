@@ -6,6 +6,17 @@ Jest to długa do kostek suknia koloru czerwonego lub zgodnego z kolorem szat li
 
 ![&#x179;r&#xF3;d&#x142;o: http://www.korbik.com.pl/wp-content/uploads/2015/02/tunika-z-rekawami-540x531.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/sutanela.jpg)
 
+## Sutanna
+
+Jest to długa, szata ze stojącym kołnierzykiem i koloratką.
+
+Kolor sutanny jest związany z miejscem w hierarchii i posiadanym tytułem: białą nosi papież; czerwoną czy też szkarłatną – kardynałowie; fioletową – arcybiskupi, biskupi, infułaci i kanonicy \(ale na co dzień mogą też nosić zwykłą, czarną sutannę z obszyciem w odpowiednim kolorze, którą mogą także nosić prezbiterzy noszący godność prałata\); prezbiterzy, diakoni i klerycy po obłóczynach – czarną.  
+Białą sutannę mogą nosić także wszystkie osoby duchowne w krajach tropikalnych, na podstawie stosownego indultu.
+
+Dawniej każda sutanna musiała mieć przyszyte 33 guziki, co nawiązywało do wieku Chrystusa w trakcie Jego zbawiennej Męki na Krzyżu.
+
+![https://static2.ornaty.net/pol\_pl\_Czarna-zimowa-sutanna-CASS-W-CZ-2543\_1.jpg \[dost&#x119;p: 02.12.2019\]](.gitbook/assets/sutannna.jpg)
+
 ## Komża
 
 Jest to krótsza szata biała sięgająca do kolan. Jeżeli jest używana sutanna/sutanela ministrancka, komżę zawsze zakładamy na nią.
@@ -78,6 +89,16 @@ Jest to ozdobna szata wierzchnia, stosowana przez kapłana poza Mszą świętą,
 Jest to szeroki pas tkaniny \(zwykle przyozdobiony symbolami eucharystycznymi\) nakładany na ramiona celebransa przed błogosławieństwem Najświętszym Sakramentem; używany także w czasie procesji przez celebransa niosącego monstrancję.
 
 ![&#x179;r&#xF3;d&#x142;o: https://urbanowiczhaft.pl/wp-content/uploads/2016/09/p\_7\_5\_8\_758-thickbox\_default-Welon-haftowany-IHS-z-Klosami.jpg \[dost&#x119;p: 28.06.2019\]](.gitbook/assets/welon_naramienny.jpg)
+
+## Biret
+
+\(z łac. _birretum_ – czapeczka\)
+
+Jest to sztywne, czworokątne nakrycie głowy duchownych. Ma zazwyczaj trzy rogi \(czterorożny biret przysługuje osobom ze stopniem doktora\). Kolor biretu jest związany z miejscem w hierarchii i posiadanym tytułem \(patrzy [kolory sutann](szaty-ministranckie-i-kaplanskie.md#sutanna)\), może być z pomponem lub bez.
+
+![https://static1.ornaty.net/pol\_pm\_Czarny-biret-trojrozny-B-1-506\_1.jpg \[dost&#x119;p: 02.12.2019\] ](.gitbook/assets/biret.jpg)
+
+![https://static1.ornaty.net/pol\_pl\_Czerwony-biret-trojrozny-B-7-504\_1.jpg \[dost&#x119;p: 02.12.2019\]](.gitbook/assets/biret1.jpg)
 
 ## **Piuska**
 
