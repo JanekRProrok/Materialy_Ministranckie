@@ -20,6 +20,7 @@
 * **Puszkę na klatce chowamy do siatki.**
 * **Na pytania o kwoty, jakie wrzucają sąsiedzi, odpowiadamy, że różnie! Niektórzy kilka, inni kilkanaście złotych. Nigdy nie mówimy ile już uzbieraliśmy oraz jaką najwyższą kwotę otrzymaliśmy!**
 * **Na klatce nie biegamy, nie krzyczymy, zachowujemy się spokojnie.**
+* **Kwota, którą wkładamy do koperty nie jest przeznaczona "dla księdza".** Jest ona odkładana na wspólną kasę ministrancką, z której później finansowane są np. wyjazdy wakacyjne i szaty ministranckie.
 
 ## **Wykonanie**
 
@@ -64,8 +65,17 @@ Zdarza się, że rodzina zaprasza nas na krótki poczęstunek, wówczas po modli
 
 W razie potrzeby ugaszenia pragnienia lub skorzystania z toalety, pytamy o taką możliwość mieszkańców.
 
-Na zakończenie, przepisujemy z kartki na kopertę łączną liczbę mieszkań, które odwiedziliśmy, liczbę mieszkań, które przyjęły kolędę i liczbę tych, które nie przyjęły oraz kwotę, jaką włożyliśmy do koperty. **\(Jest to umownie 1,50 zł/ministranta od każdego lokalu, w którym przyjęto kolędę – najlepiej zapytać księdza przed każdą kolędą\)**. Na zakończenie wkładamy do niej kartkę z numerami mieszkań, zaklejamy kopertę i oddajemy kapłanowi.  
-Idziemy po swoje ubrania.  
+Na zakończenie, przepisujemy z kartki na kopertę łączną liczbę mieszkań, które odwiedziliśmy, liczbę mieszkań, które przyjęły kolędę i liczbę tych, które nie przyjęły oraz kwotę, jaką włożyliśmy do koperty.  
+Jest to:
+
+* **1,50 zł/mieszkanie**, które przyjęło wizytę, gdy chodzi **dwóch ministrantów**,
+* **2,00 zł/mieszkanie**, które przyjęło wizytę, gdy chodzi **jeden ministrant**.
+
+**Przypominam, że te pieniądze nie są przeznaczone "dla księdza". Są one odkładane na wspólną kasę ministrancką, z której później finansowane są np. wyjazdy wakacyjne i szaty ministranckie.** \(Spotkałem się już niejednokrotnie z pytaniami o oddawaną przez ministrantów kwotę i stwierdzeniami "po co jeszcze ksiądz zabiera ministrantom pieniądze, skoro od mieszkańców dostaje już w tzw. kopercie". Prostujmy te błędne opinie.\)
+
+Na zakończenie wkładamy do niej kartkę z numerami mieszkań, zaklejamy kopertę i oddajemy kapłanowi.  
+Idziemy po swoje ubrania.
+
 Pozostałą, uzbieraną kwotę i słodkości dzielimy po równo, między ministrantów. W razie pozostania kwoty, której nie da się już podzielić można ją włożyć do koperty lub według uznania podzielić między siebie, np. w zamian za cukierka. W przypadku problemu z rozmienieniem dużych nominałów, możemy to zrobić w zakrystii po kolędzie. Warto jednak wtedy poinformować księdza o tym fakcie.
 
 ## Wskazówki
