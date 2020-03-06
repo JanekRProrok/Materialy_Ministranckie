@@ -7,7 +7,7 @@ Natomiast w _Introitus simplex_ \(zwykłej procesji wejścia – krótką drogą
 
 W procesjach wyjścia obowiązują podobne zasady jak przy procesjach wejścia – niesie się tylko Krzyż i akolitki przy uroczystym wyjściu lub nic przy zwykłym.
 
-![Duszpasterstwo S&#x142;u&#x17C;by Liturgicznej Archidiecezji Pozna&#x144;skiej, Kurs Ceremoniarza](.gitbook/assets/procesja_wejscia_wyjscia.jpg)
+![Duszpasterstwo S&#x142;u&#x17C;by Liturgicznej Archidiecezji Pozna&#x144;skiej, Kurs Ceremoniarza](../.gitbook/assets/procesja_wejscia_wyjscia.jpg)
 
 Ministranci niosący:
 
@@ -23,7 +23,7 @@ Ceremoniarz, ministranci towarzyszący celebransowi \(lub diakoni\) oraz ministr
 
 ## Procesja teoforyczna
 
-![Duszpasterstwo S&#x142;u&#x17C;by Liturgicznej Archidiecezji Pozna&#x144;skiej, Kurs Ceremoniarza](.gitbook/assets/procesja_teforyczna.jpg)
+![Duszpasterstwo S&#x142;u&#x17C;by Liturgicznej Archidiecezji Pozna&#x144;skiej, Kurs Ceremoniarza](../.gitbook/assets/procesja_teforyczna.jpg)
 
 Dotychczasowe trasy procesji: [http://bit.ly/mapaparafia](http://bit.ly/mapaparafia)
 

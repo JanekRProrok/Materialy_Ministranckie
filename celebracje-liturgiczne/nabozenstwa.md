@@ -30,7 +30,7 @@ Są to pozaliturgiczne modlitwy i obrzędy, które ubogacają życie religijne, 
 ## Przebieg nabożeństwa
 
 {% hint style="warning" %}
-Nie zapomnij zapoznać się z [kwestiami bezpieczeństwa](kwestie-bezpieczenstwa.md).
+Nie zapomnij zapoznać się z [kwestiami bezpieczeństwa](../kwestie-bezpieczenstwa.md).
 {% endhint %}
 
 Zazwyczaj podczas nabożeństwa wystawiany jest Najświętszy Sakrament. **Po rozpoczęciu nabożeństwa można sprzed stopni ołtarza przejść do ławki i tam uklęknąć.**
@@ -51,7 +51,7 @@ Po odmówieniu tekstów nabożeństwa, często występuje "czytanka", podczas kt
 Po skończonej "czytance", wracamy przed stopnie i klękamy śpiewając pieśń przed błogosławieństwem, dzwonimy dzwonkami. \(Następuje zasypanie kadzidła i okadzenie.\)
 
 Po zakończeniu pieśni kapłan wstaje i odczytuje modlitwę przed błogosławieństwem Najświętszym Sakramentem.  
-Po niej ministrant zakłada welon naramienny kapłanowi, bierze dzwonki i zanosi je na miejsce. Klęka obok gongu i uderza w jeden ton \(poziom\) 3x – 1x podczas podniesienia Najświętszego Sakramentu na wprost, 1x na lewo i 1x na prawo. \(Turyfer udaje się na środek, może uklęknąć na klęczniku, posadzce lub stopniu i [okadza](funkcje.md#okadzenie) Najświętszy Sakrament tak jak podczas przeistoczenia\).  
+Po niej ministrant zakłada welon naramienny kapłanowi, bierze dzwonki i zanosi je na miejsce. Klęka obok gongu i uderza w jeden ton \(poziom\) 3x – 1x podczas podniesienia Najświętszego Sakramentu na wprost, 1x na lewo i 1x na prawo. \(Turyfer udaje się na środek, może uklęknąć na klęczniku, posadzce lub stopniu i [okadza](../funkcje.md#okadzenie) Najświętszy Sakrament tak jak podczas przeistoczenia\).  
 Następnie wykonujemy znak krzyża, ministrant odbiera od kapłana welon, schodzi przed stopnie i składa welon \(Turyfer wraca na swoje miejsce\).
 
 Po zamknięciu tabernakulum wstajemy, razem z kapłanem przyklękamy \(turyfer i nawikulariusz czynią głęboki skłon\) i wracamy do zakrystii.

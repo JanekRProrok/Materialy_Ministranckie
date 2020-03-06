@@ -2,5 +2,5 @@
 
 ## Podział na dwóch ministrantów
 
-![](.gitbook/assets/podzial2.png)
+![](../.gitbook/assets/podzial2.png)
 

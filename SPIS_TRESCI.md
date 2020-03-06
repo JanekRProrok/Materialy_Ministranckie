@@ -3,25 +3,35 @@
 * [Materiały formacyjne](README.md)
 * [Kwestie bezpieczeństwa](kwestie-bezpieczenstwa.md)
 * [Ministrant](ministrant.md)
-* [Przygotowanie Mszy](przygotowanie-mszy.md)
 * [Przygotowanie do Mszy](przygotowanie-do-mszy.md)
-* [Przyjmowanie Komunii świętej](przyjmowanie-komunii-swietej.md)
 * [Postawy](postawy.md)
-* [Proponowany podział funkcji](proponowany-podzial-funkcji.md)
 * [Funkcje](funkcje.md)
-* [Procesje](procesje.md)
-* [Księgi liturgiczne](ksiegi-liturgiczne.md)
+* [Przyjmowanie Komunii Świętej](przyjmowanie-komunii-swietej.md)
 * [Kolory szat](kolory-szat.md)
 * [Szaty ministranckie i kapłańskie](szaty-ministranckie-i-kaplanskie.md)
 * [Przedmioty liturgiczne](przedmioty-liturgiczne.md)
-* [Nabożeństwa](nabozenstwa.md)
-* [Roraty](roraty.md)
+* [Księgi liturgiczne](ksiegi-liturgiczne.md)
 * [Wizyta duszpasterska](wizyta-duszpasterska.md)
 * [Śpiew – cykl edukacyjny](spiew-cykl.md)
 * [Śpiewnik ks. Siedleckiego](spiewnik.md)
 * [Odpusty](odpusty.md)
 * [Świadectwa](swiadectwa.md)
-* [Uroczystość Bożego Ciała](uroczystosc-bozego-ciala.md)
+
+## Celebracje liturgiczne
+
+* [Procesje](celebracje-liturgiczne/procesje.md)
+* [Przygotowanie Mszy](celebracje-liturgiczne/przygotowanie-mszy.md)
+* [Proponowany podział funkcji](celebracje-liturgiczne/proponowany-podzial-funkcji.md)
+* [Roraty](celebracje-liturgiczne/roraty.md)
+* [Uroczystość Bożego Ciała](celebracje-liturgiczne/uroczystosc-bozego-ciala.md)
+* [Nabożeństwa](celebracje-liturgiczne/nabozenstwa.md)
+
+## Celebracje z biskupem
+
+* [Zasady ogólne](celebracje-z-biskupem/zasady-ogolne.md)
+* [Msza celebrowana przez biskupa](celebracje-z-biskupem/msza-celebrowana-przez-biskupa.md)
+* [Bierzmowanie](celebracje-z-biskupem/bierzmowanie.md)
+* [Położenie kamienia węgielnego lub rozpoczęcie budowy kościoła](celebracje-z-biskupem/polozenie-kamienia-wegielnego-lub-rozpoczecie-budowy-kosiola.md)
 
 ## Triduum Paschalne
 
@@ -33,4 +43,5 @@
 
 * [Ważniejsze modlitwy i części Mszy](latina/wazniejsze-modlitwy.md)
 * [Komendy liturgiczne](latina/komendy-liturgiczne.md)
+* [Pliki do pobrania](pliki-do-pobrania.md)
 

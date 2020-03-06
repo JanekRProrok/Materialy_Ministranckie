@@ -14,6 +14,7 @@ Wszystkie materiały zostały dostosowane, w miarę możliwości, do zwyczajów 
 Poniższe materiały są adaptacją:
 
 * _Codex Iuris Canonici_, Roma 1983 [_Kodeks prawa Kanonicznego_](http://www.trybunal.mkw.pl/Kodeks%20Prawa%20Kanonicznego.pdf), Rzym 1983 \[dostęp: 14:56 18.07.2019\]
+* \_\_[_Katechizm Kościoła Katolickiego_](http://lublin.scj.pl/cms/teksty/KKK.pdf)_,_ Rzym 1992 \[dostęp: 17:30 29.02.2020\]
 * Congregatio de Cultu Divino et Disciplina Sacramentorum, _Institutio Generalis Missalis Romani_, Roma 1969 Kongregacja ds. Kultu Bożego i Dyscypliny Sakramentów, [_Ogólne Wprowadzenie do Mszału Rzymskiego 2002_](http://www.dsorzeszow.pl/files/Dokumenty-Kosciola/12._OWMR_2002.pdf), Pallottinum, Poznań 2006 \[dostęp: 14:56 18.07.2019\]
 * Komisja Konferencji Episkopatu Polski ds. Kultu Bożego i Dyscypliny Sakramentów, [_Wskazania Episkopatu Polski po ogłoszeniu Nowego Wydania Ogólnego Wprowadzenia do Mszału Rzymskiego_](http://www.dsorzeszow.pl/files/Dokumenty-Kosciola/13._Wskazania_Episkopatu_Polski_2005.pdf), Warszawa 2005 \[dostęp: 14:56 18.07.2019\]
 * Congregatio de Cultu Divino et Disciplina Sacramentorum, _Instructio Redemptionis sacramentum – De quibusdam observandis et vitandis circa Sanctissimam Eucharistiam_, Roma 2004 Kongregacja ds. Kultu Bożego i Dyscypliny Sakramentów, [_Instrukcja "Redemptionis sacramentum"_ ](https://opoka.org.pl/biblioteka/W/WR/kongregacje/kkultu/redemptionis_sacramentum_25032004.html), Rzym 2004 \[dostęp: 14:56 18.07.2019\]

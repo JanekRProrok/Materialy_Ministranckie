@@ -4,7 +4,7 @@ description: >-
   ogłoszeniu nowego wydania Ogólnego Wprowadzenia do Mszału Rzymskiego
 ---
 
-# Przyjmowanie Komunii świętej
+# Przyjmowanie Komunii Świętej
 
 ## Kodeks Prawa Kanonicznego
 
@@ -15,9 +15,11 @@ description: >-
 
 **Kan. 915** – Do Komunii świętej nie należy dopuszczać ekskomunikowanych lub podlegających interdyktowi, po wymierzeniu lub deklaracji kary, jak również innych osób trwających z uporem w jawnym grzechu ciężkim
 
-**Kan. 916** – Kto ma świadomość grzechu ciężkiego, nie powinien bez sakramentalnej spowiedzi odprawiać Mszy świętej ani przyjmować Komunii świętej, chyba że istnieje poważna racja i nie ma sposobności wyspowiadania się. W takim jednak wypadku ma pamiętać o tym, że jest obowiązany wzbudzić akt żalu doskonałego, który zawiera w sobie zamiar wyspowiadania się jak najszybciej. \[tzn. taki ból duszy i znienawidzenie postępku, poprzez który uświadomi sobie, że zranił Boga, i że Bóg o niego walczy, oraz postanowienie, by zmienić swoje postępowanie na przyszłość. Żal doskonały wzbudzony z miłości do Boga, nie z obawy przed karą, odpuszcza natychmiast grzechy powszechnie, oraz przynosi odpuszczenie grzechów ciężkich, podczas spowiedzi\]
+**Kan. 916** – Kto ma świadomość grzechu ciężkiego, nie powinien bez sakramentalnej spowiedzi odprawiać Mszy świętej ani przyjmować Komunii świętej, chyba że istnieje poważna racja i nie ma sposobności wyspowiadania się. W takim jednak wypadku ma pamiętać o tym, że jest obowiązany wzbudzić akt żalu doskonałego, który zawiera w sobie zamiar wyspowiadania się jak najszybciej.  
+\[tzn. taki ból duszy i znienawidzenie postępku, poprzez który uświadomi sobie, że zranił Boga, i że Bóg o niego walczy, oraz postanowienie, by zmienić swoje postępowanie na przyszłość. Żal doskonały wzbudzony z miłości do Boga, nie z obawy przed karą, odpuszcza natychmiast grzechy powszechnie, oraz przynosi odpuszczenie grzechów ciężkich, podczas spowiedzi\]
 
-**Kan. 917** – Kto przyjął już Najświętszą Eucharystię, może ją ponownie tego samego dnia przyjąć jedynie podczas sprawowania Eucharystii, w której uczestniczy, z zachowaniem przepisu kan. 921, § 2. \[czyli tylko pod warunkiem, że uczestniczy w całej Mszy\]
+**Kan. 917** – Kto przyjął już Najświętszą Eucharystię, może ją ponownie tego samego dnia przyjąć jedynie podczas sprawowania Eucharystii, w której uczestniczy, z zachowaniem przepisu kan. 921, § 2.  
+\[czyli tylko pod warunkiem, że uczestniczy w całej Mszy\]
 
 **Kan. 918** – Jak najbardziej zaleca się, ażeby wierni przyjmowali Komunię świętą podczas sprawowania Eucharystii. Proszącym jednak o nią dla słusznej racji poza Mszą świętą, należy udzielić, zachowując obrzędy liturgiczne.
 
