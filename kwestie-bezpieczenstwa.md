@@ -21,9 +21,9 @@ W razie zasłabnięcia, omdlenia \(przypadki szczególne\) obowiązkowo osoba, k
 Numer alarmowy: **112**
 {% endhint %}
 
-{% file src=".gitbook/assets/pierwsza-pomoc.pdf" caption="Pierwsza pomoc" %}
+{% file src=".gitbook/assets/pierwsza-pomoc.pdf" caption="Schematy podstawowych czynności ratunkowych" %}
 
-Źródło: [Polska Rada Resuscytacji](http://www.prc.krakow.pl/wyty/02.pdf) \[dostęp: 10:07 02.08.2019\]
+Źródło: [Polska Rada Resuscytacji](https://www.prc.krakow.pl/wytyczne.html) \[dostęp: 23:39 06.03.2020\]
 
 ## Adoracja relikwii
 
