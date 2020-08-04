@@ -43,5 +43,9 @@
 
 * [Ważniejsze modlitwy i części Mszy](latina/wazniejsze-modlitwy.md)
 * [Komendy liturgiczne](latina/komendy-liturgiczne.md)
+
+---
+
+* [Bibliografia](bibliografia.md)
 * [Pliki do pobrania](pliki-do-pobrania.md)
 
