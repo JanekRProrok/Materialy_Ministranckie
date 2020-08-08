@@ -30,6 +30,7 @@ Niniejsze materiały są adaptacją:
 * [Dekret Penitencjarii Apostolskiej dotyczący czwartego wydania _Enchiridion indulgentiarum_](https://opoka.org.pl/biblioteka/W/WR/inne/penitentia_16071999.html) \[dostęp: 10:29 02.08.2019\]
 * [_Paramenty kościelne_](https://pl.wikipedia.org/wiki/Paramenty_ko%C5%9Bcielne), Wikipedia: wolna encyklopedia \[dostęp: 14:57 18.07.2019\]
 * [_Bielizna kielichowa_](https://pl.wikipedia.org/wiki/Bielizna_kielichowa), Wikipedia: wolna encyklopedia \[dostęp: 14:57 18.07.2019\]
+* \_\_[_Rozporządzenie Rady Ministrów z dnia 7 sierpnia 2020 r. w sprawie ustanowienia określonych ograniczeń, nakazów i zakazów w związku z wystąpieniem stanu epidemii_](https://dziennikustaw.gov.pl/D2020000135601.pdf) \[dostęp: 13:47 08.08.2020\]
 
 {% hint style="info" %}
 Wszystkie materiały książkowe posiadają imprimatur władz kościelnych.
