@@ -88,7 +88,7 @@ Kolejność procesji wejścia – według wzrostu:
 * **Pateny**
 * **Ministranci do pomocy przy adoracji Krzyża po Mszy**
 
-#### **Męka Pańska wg. św. Jana**
+#### **Męka Pańska wg św. Jana**
 
 * **✠** **Chrystus** – Celebrans/Diakon
 * **E. Ewangelista**

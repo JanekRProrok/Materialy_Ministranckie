@@ -44,11 +44,11 @@ W nawiasach podano dodatkowe informacje dla kadzidła, które nie jest obowiązk
 Wychodzimy z zakrystii w procesji \(kadzidło idzie pierwsze\), dzwonimy dzwonkiem.
 
 Po przyjściu do stopni ołtarza, wszyscy przyklękamy \(turyfer i nawikulariusz czynią głęboki skłon\) i klękamy na oba kolana, śpiewana jest pieśń na wystawienie – dzwonimy dzwonkami.  
-Kapłan wystawia Najświętszy Sakrament na ołtarzu i wraca przed stopnie. \(Następuje zasypanie kadzidła i okadzenie. Po okadzeniu turyfer wraz z nawikulariuszem odnosi trybularz do zakrystii i wraca do ławki.\)  
+Kapłan wystawia Najświętszy Sakrament na ołtarzu i wraca przed stopnie. \(Następuje zasypanie kadzidła i okadzenie. Po okadzeniu turyfer wraz z nawikulariuszem odnosi trybularz do zakrystii i wraca do ławki\).  
 Rozpoczynają się modlitwy.
 
-Po odmówieniu tekstów nabożeństwa, często występuje "czytanka", podczas której siadamy. \(W trakcie "czytanki" turyfer wraz z nawikulariuszem udaje się po kadzidło i czeka w zakrystii na śpiew.\)  
-Po skończonej "czytance", wracamy przed stopnie i klękamy śpiewając pieśń przed błogosławieństwem, dzwonimy dzwonkami. \(Następuje zasypanie kadzidła i okadzenie.\)
+Po odmówieniu tekstów nabożeństwa, często występuje "czytanka", podczas której siadamy. \(W trakcie "czytanki" turyfer wraz z nawikulariuszem udaje się po kadzidło i czeka w zakrystii na śpiew\).  
+Po skończonej "czytance", wracamy przed stopnie i klękamy śpiewając pieśń przed błogosławieństwem, dzwonimy dzwonkami. \(Następuje zasypanie kadzidła i okadzenie\).
 
 Po zakończeniu pieśni kapłan wstaje i odczytuje modlitwę przed błogosławieństwem Najświętszym Sakramentem.  
 Po niej ministrant zakłada welon naramienny kapłanowi, bierze dzwonki i zanosi je na miejsce. Klęka obok gongu i uderza w jeden ton \(poziom\) 3x – 1x podczas podniesienia Najświętszego Sakramentu na wprost, 1x na lewo i 1x na prawo. \(Turyfer udaje się na środek, może uklęknąć na klęczniku, posadzce lub stopniu i [okadza](../funkcje.md#okadzenie) Najświętszy Sakrament tak jak podczas przeistoczenia\).  
