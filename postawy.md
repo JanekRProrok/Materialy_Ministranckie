@@ -170,7 +170,7 @@ Siedzenie oznacza gotowość do słuchania Słowa Bożego, nauki Kościoła.
 
 * Siedząc obok celebransa, na miejscu przewodniczenia, zawsze wstajemy gdy główny celebrans wraca do sedilli i siadamy razem z nim.
 * Nie garbimy się, nie oglądamy.
-* Ręce powinny spoczywać na kolanach. Nie obgryzujemy paznokci, skórek, etc. \(jedzenie wszelkich pokarmów, w tym również części naskórka czy paznokci jest złamaniem postu eucharystycznego – więcej w [Przyjmowanie Komunii świętej](przyjmowanie-komunii-swietej.md#kodeksu-prawa-kanonicznego)\)
+* Ręce powinny spoczywać na kolanach. Nie obgryzujemy paznokci, skórek, etc. \(jedzenie wszelkich pokarmów, w tym również części naskórka czy paznokci jest złamaniem postu eucharystycznego – więcej w [Przyjmowanie Komunii świętej](przyjmowanie-komunii-swietej.md#kodeksu-prawa-kanonicznego)\).
 * Nie machamy nogami w powietrzu, nie zakładamy nogi na nogę i nie pukamy nimi.
 * Nie bawimy się włosami.
 
