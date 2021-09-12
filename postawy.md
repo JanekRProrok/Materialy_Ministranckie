@@ -11,13 +11,13 @@
 ## Zasady ogólne
 
 * W trakcie Mszy każdy gest wyraża nasz szacunek do Boga.
-* Ministrant powinien mieć wyraz twarzy pogodny, naturalny, skupiony i pobożny. \(Przed wyjściem z zakrystii, w czasie przygotowań do Mszy spójrz w lustro, oceń swój wygląd, ułóż włosy, popraw ubiór, zadbaj o całą sylwetkę. Zwróć uwagę na innych ministrantów, pomóż dostrzec to czego nie widać... człowiek nie jest kameleonem i nie widzi niczego z tyłu głowy.\) Nasza postawa powinna uzewnętrzniać radość z prawdziwie wielkiej służby, jaką możemy pełnić.
+* Ministrant powinien mieć wyraz twarzy pogodny, naturalny, skupiony i pobożny. \(Przed wyjściem z zakrystii, w czasie przygotowań do Mszy spójrz w lustro, oceń swój wygląd, ułóż włosy, popraw ubiór, zadbaj o całą sylwetkę. Zwróć uwagę na innych ministrantów, pomóż dostrzec to czego nie widać... człowiek nie jest kameleonem i nie widzi niczego z tyłu głowy\). Nasza postawa powinna uzewnętrzniać radość z prawdziwie wielkiej służby, jaką możemy pełnić.
 * W trakcie liturgii nie ma miejsca dla pośpiechu.
 * Jeżeli daną funkcję wykonujemy z drugim ministrantem, staramy się aby razem wykonywać ją tak samo, w miarę symetrycznie, dotrzymując tempa.
 * Rzeczą co najmniej niestosowną jest ostentacyjne "grzebanie" w miejscu publicznym, w nosie, uszach, zębach, i innych otworach ciała, lub uporczywe drapanie, wycieranie nosa ręką \(do tego służy zawsze czysta chusteczka, a samą czynność wykonujemy dyskretnie, odwracając się delikatnie tyłem do wiernych\).
 * Przy ziewaniu zasłaniamy zawsze usta dłonią. Nikt z ludu nie musi oglądać twojego żołądka.
 * Nie kręcimy się, obracamy, przeciągamy.
-* Nie rozmawiamy, rozśmieszamy, dyskutujemy. \(Jeżeli już musisz porozumieć się z sąsiadem, w bardzo ważnej kwestii dotyczącej obecnie sprawowanej liturgii, to zrób tę czynność jak najbardziej dyskretnie ograniczając się do minimum słów.\) **Kategorycznie nie rozmawiamy podczas Przeistoczenia!**
+* Nie rozmawiamy, rozśmieszamy, dyskutujemy. \(Jeżeli już musisz porozumieć się z sąsiadem, w bardzo ważnej kwestii dotyczącej obecnie sprawowanej liturgii, to zrób tę czynność jak najbardziej dyskretnie ograniczając się do minimum słów\). **Kategorycznie nie rozmawiamy podczas Przeistoczenia!**
 * Staramy się nie rozglądać po kościele, nie wyszukujemy osób, sytuacji, które mogą nas rozpraszać, rozśmieszać. Jeżeli już zdarzyła się taka sytuacja staramy się skupić uwagę na ołtarzu, powstrzymać niewłaściwe emocje.
 * Gdy potrzebujemy sięgnąć po przedmiot położony nisko, lepiej jest przyklęknąć i wtedy go zabrać, niż "wypinać się" do innych.
 

@@ -15,14 +15,14 @@ Ministrant przygotowuje Eucharystię jak niegdyś uczniowie Paschę Chrystusa:
 * Jeżeli przy rozkładaniu kielicha jednocześnie jest wnoszony Mszał, powinniśmy wzajemnie na siebie czekać aby przyjście i odejście obu ministrantów było w miarę symetryczne i zgrane.
 * Jeżeli dodatkowo została przygotowana puszka lub głęboka patena do konsekracji, możemy poprosić drugiego ministranta aby nam pomógł ją zanieść. 
 * Po skończonej modlitwie wiernych podchodzimy do ołtarza, skłaniamy głowę i kładziemy kielich nieco po jego prawej stronie.
-* \(Zdejmujemy welon kielichowy, jeżeli jest i składamy go po prawej stronie ołtarza.\) Zdejmujemy korporał i kładziemy go na środku ołtarza. Rozkładamy go na prawo i lewo, a następnie w górę i w dół. Jeżeli korporał jest źle zaprasowany i trzeba go odwrócić, uważamy aby ewentualne fragmenty Ciała Pańskiego nie upadły na ołtarz.
+* \(Zdejmujemy welon kielichowy, jeżeli jest i składamy go po prawej stronie ołtarza\).Zdejmujemy korporał i kładziemy go na środku ołtarza. Rozkładamy go na prawo i lewo, a następnie w górę i w dół. Jeżeli korporał jest źle zaprasowany i trzeba go odwrócić, uważamy aby ewentualne fragmenty Ciała Pańskiego nie upadły na ołtarz.
 * Jeżeli jest potrzeba przesunięcia go, łapiemy za jego rogi/krawędzie.
 
 {% hint style="danger" %}
 **Nigdy nie kładziemy rąk na korporale.**
 {% endhint %}
 
-* \(Następnie kładziemy puszki/pateny głębokie w jego lewym górnym rogu, a jeżeli jest ich więcej – wzdłuż lewej i górnej krawędzi.\)
+* \(Następnie kładziemy puszki/pateny głębokie w jego lewym górnym rogu, a jeżeli jest ich więcej – wzdłuż lewej i górnej krawędzi\).
 * Następnie przybliżamy kielich z puryfikaterzem \(i pateną\) do prawej krawędzi korporału.
 * Zdejmujemy patenę/Odbieramy patenę od drugiego ministranta i podajemy ją księdzu do rąk. Skłaniamy się i wracamy na swoje miejsce \(zabieramy welon kielichowy i przynosimy go przy okazji pomocy przy puryfikacji po Komunii\).
 

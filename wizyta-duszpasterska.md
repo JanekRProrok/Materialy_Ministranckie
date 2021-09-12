@@ -28,7 +28,7 @@ Ministranci przychodzą do zakrystii minimum 30 minut przed godziną rozpoczęci
 Ministranci ubierają komżę pod kurtkę, odbierają od księdza materiały duszpasterskie i wraz z wyznaczonym kapłanem udają się na miejsce kolędy.  
 Ministranci razem z księdzem wchodzą do pierwszej rodziny, która przyjmuje wizytę. Jej przebieg zazwyczaj jest dosyć spontaniczny i różni się od przedstawionego poniżej wzorca.
 
-Za zgodą pierwszej rodziny pozostawiamy u niej wierzchnie ubrania aż do momentu przejścia do następnej klatki a w przypadku domków jednorodzinnych zawsze nosimy je na sobie. \(Nieraz pozostawiamy ubrania dopiero w drugim lub trzecim mieszkaniu ze względu na wyjście mieszkańców lub z powodu unoszącego się w mieszkaniu przykrego zapachu np. dymu papierosowego – po godzinie nasze ubrania będą nim przesiąknięte.\)
+Za zgodą pierwszej rodziny pozostawiamy u niej wierzchnie ubrania aż do momentu przejścia do następnej klatki a w przypadku domków jednorodzinnych zawsze nosimy je na sobie. \(Nieraz pozostawiamy ubrania dopiero w drugim lub trzecim mieszkaniu ze względu na wyjście mieszkańców lub z powodu unoszącego się w mieszkaniu przykrego zapachu np. dymu papierosowego – po godzinie nasze ubrania będą nim przesiąknięte\).
 
 ## Przebieg wizyty
 
@@ -71,7 +71,7 @@ Jest to:
 * **1,50 zł/mieszkanie**, które przyjęło wizytę, gdy chodzi **dwóch ministrantów**,
 * **2,00 zł/mieszkanie**, które przyjęło wizytę, gdy chodzi **jeden ministrant**.
 
-**Przypominam, że te pieniądze nie są przeznaczone "dla księdza". Są one odkładane na wspólną kasę ministrancką, z której później finansowane są np. wyjazdy wakacyjne i szaty ministranckie.** \(Spotkałem się już niejednokrotnie z pytaniami o oddawaną przez ministrantów kwotę i stwierdzeniami "po co jeszcze ksiądz zabiera ministrantom pieniądze, skoro od mieszkańców dostaje już w tzw. kopercie". Prostujmy te błędne opinie.\)
+**Przypominam, że te pieniądze nie są przeznaczone "dla księdza". Są one odkładane na wspólną kasę ministrancką, z której później finansowane są np. wyjazdy wakacyjne i szaty ministranckie.** \(Spotkałem się już niejednokrotnie z pytaniami o oddawaną przez ministrantów kwotę i stwierdzeniami "po co jeszcze ksiądz zabiera ministrantom pieniądze, skoro od mieszkańców dostaje już w tzw. kopercie". Prostujmy te błędne opinie\).
 
 Na zakończenie wkładamy do niej kartkę z numerami mieszkań, zaklejamy kopertę i oddajemy kapłanowi.  
 Idziemy po swoje ubrania.
