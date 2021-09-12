@@ -2,7 +2,7 @@
 
 ## Czym są Roraty?
 
-Roraty \(od łac. _Rorate caeli desuper_ **¹** – introitu wg. formularza Mszy o Najświętszej Maryi Pannie w Adwencie\) – pierwsza msza o wschodzie słońca w Okresie Adwentu \(obecnie ze względów duszpasterskich celebracje Rorat przenosi się na godziny popołudniowe\). Jest to msza wotywna \(msza odprawiana nie według formularza przypisanego na dany dzień, lecz według formularza odpowiadającego pobożności wiernych lub szczególnej okazji\) o Najświętszej Maryi Pannie.
+Roraty \(od łac. _Rorate caeli desuper_ **¹** – introitu wg formularza Mszy o Najświętszej Maryi Pannie w Adwencie\) – pierwsza msza o wschodzie słońca w Okresie Adwentu \(obecnie ze względów duszpasterskich celebracje Rorat przenosi się na godziny popołudniowe\). Jest to msza wotywna \(msza odprawiana nie według formularza przypisanego na dany dzień, lecz według formularza odpowiadającego pobożności wiernych lub szczególnej okazji\) o Najświętszej Maryi Pannie.
 
 ## Symbolika
 
