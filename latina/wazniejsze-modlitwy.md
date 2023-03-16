@@ -2,41 +2,41 @@
 
 ## Zalecenia dokumentów Kościoła Katolickiego
 
-> **54.** Zgodnie z art. 36 niniejszej konstytucji można zezwolić na stosowanie w odpowiednim zakresie języka ojczystego w Mszach świętych sprawowanych z udziałem ludu, zwłaszcza w czytaniach, w "modlitwie powszechnej" oraz jeżeli miejscowe warunki tego wymagają – także w tych częściach, które należą do wiernych.  
+> **54.** Zgodnie z art. 36 niniejszej konstytucji można zezwolić na stosowanie w odpowiednim zakresie języka ojczystego w Mszach świętych sprawowanych z udziałem ludu, zwłaszcza w czytaniach, w "modlitwie powszechnej" oraz jeżeli miejscowe warunki tego wymagają – także w tych częściach, które należą do wiernych.\
 > Należy jednak dbać o to, aby wierni umieli wspólnie odmawiać lub śpiewać także w języku łacińskim stałe części Mszy świętej dla nich przeznaczone. Jeżeliby jednak było gdzieś potrzebne szersze zastosowanie języka ojczystego we Mszy świętej, należy zachować postanowienie art. 40 niniejszej konstytucji.
 >
-> - [_Konstytucja o liturgii świętej „Sacrosanctum concilium”_ ](http://www.parafiakleosin.pl/download/konstytucja.pdf), Rzym 1963 \[dostęp: 12:06 25.07.2019\]
+> \- [_Konstytucja o liturgii świętej „Sacrosanctum concilium”_ ](http://www.parafiakleosin.pl/download/konstytucja.pdf), Rzym 1963 \[dostęp: 12:06 25.07.2019]
 
 > **59.** Duszpasterze pilnie powinni czuwać nad tym, aby wierni, szczególnie zaś członkowie świeckich stowarzyszeń religijnych, umieli wspólnie recytować lub śpiewać – także po łacinie – części Ordinarium mszalnego, które do nich należą, zwłaszcza przy użyciu prostszych melodii.
 >
-> - Święta Kongregacja Obrzędów, [_Instrukcja Inter Oecumenici_](https://opoka.org.pl/biblioteka/W/WR/kongregacje/kkultu/instrukcja_inter-oecumenici_26091964.html), Rzym 1964 \[dostęp: 12:08 25.07.2019\]
+> \- Święta Kongregacja Obrzędów, [_Instrukcja Inter Oecumenici_](https://opoka.org.pl/biblioteka/W/WR/kongregacje/kkultu/instrukcja\_inter-oecumenici\_26091964.html), Rzym 1964 \[dostęp: 12:08 25.07.2019]
 
-> **47.** Zgodnie z Konstytucją o świętej liturgii w "obrządkach łacińskich zachowuje się używanie języka łacińskiego, poza wyjątkami określonymi przez prawo szczegółowe".  
-> Ponieważ jednak "nierzadko używanie języka ojczystego może być bardzo pożyteczne dla wiernych", "kompetentna kościelna władza terytorialna decyduje o zakresie i sposobie wprowadzenia języka ojczystego, przedkładając decyzję do zatwierdzenia Stolicy Apostolskiej".  
-> Zachowując dokładnie powyższe przepisy, należy ustalić właściwą formę uczestniczenia stosownie do możliwości poszczególnych grup wiernych.  
+> **47.** Zgodnie z Konstytucją o świętej liturgii w "obrządkach łacińskich zachowuje się używanie języka łacińskiego, poza wyjątkami określonymi przez prawo szczegółowe".\
+> Ponieważ jednak "nierzadko używanie języka ojczystego może być bardzo pożyteczne dla wiernych", "kompetentna kościelna władza terytorialna decyduje o zakresie i sposobie wprowadzenia języka ojczystego, przedkładając decyzję do zatwierdzenia Stolicy Apostolskiej".\
+> Zachowując dokładnie powyższe przepisy, należy ustalić właściwą formę uczestniczenia stosownie do możliwości poszczególnych grup wiernych.\
 > Duszpasterze winni troszczyć się także o to, "by wierni umieli wspólnie odmawiać lub śpiewać stałe części Mszy świętej dla nich przeznaczone, nie tylko w języku ojczystym, lecz także w języku łacińskim".
 >
-> - Święta Kongregacja Obrzędów, [_Instrukcja Musicam sacram_](https://musicamsacram.pl/documents/download/musicamsacram), Rzym 1967 \[dostęp: 12:09 25.07.2019\]
+> \- Święta Kongregacja Obrzędów, [_Instrukcja Musicam sacram_](https://musicamsacram.pl/documents/download/musicamsacram), Rzym 1967 \[dostęp: 12:09 25.07.2019]
 
-> **41.** Wśród cieszących się równym szacunkiem rodzajów śpiewu pierwsze miejsce winien zajmować śpiew gregoriański jako własny śpiew liturgii rzymskiej. Nie są bynajmniej wykluczone inne rodzaje muzyki, zwłaszcza wielogłosowa, byleby odpowiadały duchowi czynności liturgicznej i sprzyjały uczestnictwu wszystkich wiernych.  
+> **41.** Wśród cieszących się równym szacunkiem rodzajów śpiewu pierwsze miejsce winien zajmować śpiew gregoriański jako własny śpiew liturgii rzymskiej. Nie są bynajmniej wykluczone inne rodzaje muzyki, zwłaszcza wielogłosowa, byleby odpowiadały duchowi czynności liturgicznej i sprzyjały uczestnictwu wszystkich wiernych.\
 > Ponieważ obecnie coraz częściej gromadzą się wierni różnych narodowości, wypada, aby potrafili razem śpiewać w języku łacińskim przynajmniej niektóre stałe części Mszy świętej, zwłaszcza symbol wiary i modlitwę Pańską.
 >
-> - [_Ogólne Wprowadzenie do Mszału Rzymskiego 2002_](http://www.dsorzeszow.pl/files/Dokumenty-Kosciola/12._OWMR_2002.pdf), Pallottinum, Poznań 2006
+> \- [_Ogólne Wprowadzenie do Mszału Rzymskiego 2002_](http://www.dsorzeszow.pl/files/Dokumenty-Kosciola/12.\_OWMR\_2002.pdf), Pallottinum, Poznań 2006
 
 > **15.** Niektóre części Mszy świętej mogą być śpiewane w różnych językach. Dotyczy to zwłaszcza liturgii z udziałem większej grupy obcokrajowców. Niezależnie od tego, szczególnie zaleca się śpiew w języku łacińskim.
 >
-> - Konferencja Episkopatu Polski, [_Instrukcja Konferencji Episkopatu Polski o muzyce kościelnej_](https://episkopat.pl/wp-content/uploads/2017/10/Instrukcja-Konferencji-Episkopatu-Polski-o-muzyce-kos%CC%81cielnej.pdf), Lublin 2017 \[dostęp: 12:34 25.07.2019\]
+> \- Konferencja Episkopatu Polski, [_Instrukcja Konferencji Episkopatu Polski o muzyce kościelnej_](https://episkopat.pl/wp-content/uploads/2017/10/Instrukcja-Konferencji-Episkopatu-Polski-o-muzyce-kos%CC%81cielnej.pdf), Lublin 2017 \[dostęp: 12:34 25.07.2019]
 
 ## Zasady wymowy
 
-Połączenia literowe `æ` \(`a e` pisane razem\) czytamy jako `e`.  
-W łacinie nie występują zgłoski `ć`i `ś`. Połączenia literowe `ci` oraz `si` czytamy osobno.  
-Połączenie literowe `qu` czytamy jako `kw`.  
+Połączenia literowe `æ` (`a e` pisane razem) czytamy jako `e`.\
+W łacinie nie występują zgłoski `ć`i `ś`. Połączenia literowe `ci` oraz `si` czytamy osobno.\
+Połączenie literowe `qu` czytamy jako `kw`.\
 Litery `v` czytamy jako `w`.
 
 ## Części stałe Mszy świętej
 
-### Kyrie – Panie zmiłuj się <a id="kyrie"></a>
+### Kyrie – Panie zmiłuj się <a href="#kyrie" id="kyrie"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -52,11 +52,13 @@ Panie, zmiłuj się nad nami. Chryste, zmiłuj się nad nami. Panie, zmiłuj si�
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://youtu.be/QQ\_l7qm5sWM" caption="" %}
+{% embed url="https://youtu.be/QQ_l7qm5sWM" %}
 
-{% embed url="https://www.youtube.com/watch?v=I4iPrf8R06c&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj\_\_Sq3&index=1" caption="Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek." %}
+{% embed url="https://www.youtube.com/watch?v=I4iPrf8R06c&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj__Sq3&index=1" %}
+Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek.
+{% endembed %}
 
-### Gloria – Chwała na wysokości <a id="gloria"></a>
+### Gloria – Chwała na wysokości <a href="#gloria" id="gloria"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -78,9 +80,11 @@ Panie, zmiłuj się nad nami. Chryste, zmiłuj się nad nami. Panie, zmiłuj si�
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://www.youtube.com/watch?v=ms46TxtstPI&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj\_\_Sq3&index=2" caption="Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek." %}
+{% embed url="https://www.youtube.com/watch?v=ms46TxtstPI&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj__Sq3&index=2" %}
+Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek.
+{% endembed %}
 
-### Credo – Wyznanie wiary <a id="credo"></a>
+### Credo – Wyznanie wiary <a href="#credo" id="credo"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -102,9 +106,11 @@ Panie, zmiłuj się nad nami. Chryste, zmiłuj się nad nami. Panie, zmiłuj si�
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://youtu.be/yM0McJY7kbQ" caption="Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek." %}
+{% embed url="https://youtu.be/yM0McJY7kbQ" %}
+Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek.
+{% endembed %}
 
-### Sanctus – Święty, święty, święty <a id="sanctus"></a>
+### Sanctus – Święty, święty, święty <a href="#sanctus" id="sanctus"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -120,11 +126,13 @@ Sanckus, Sanktus, Sanktus, Dominus Deus Sabaoth. Pleni sunt celi et terra gloria
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://youtu.be/QfD87gNzTt4" caption="" %}
+{% embed url="https://youtu.be/QfD87gNzTt4" %}
 
-{% embed url="https://www.youtube.com/watch?v=xb9NQKA2U7w&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj\_\_Sq3&index=3" caption="Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek." %}
+{% embed url="https://www.youtube.com/watch?v=xb9NQKA2U7w&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj__Sq3&index=3" %}
+Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek.
+{% endembed %}
 
-### Agnus Dei – Baranku Boży <a id="agnus-dei"></a>
+### Agnus Dei – Baranku Boży <a href="#agnus-dei" id="agnus-dei"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -152,9 +160,11 @@ Baranku Boży, który gładzisz grzechy świata, obdarz nas pokojem.
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://www.youtube.com/watch?v=R1obGtH4dZw&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj\_\_Sq3&index=4" caption="Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek." %}
+{% embed url="https://www.youtube.com/watch?v=R1obGtH4dZw&list=PLT0ujZLVaezWK5Jdd7tl3XdVLOaj__Sq3&index=4" %}
+Na tym nagraniu wykonawca śpiewa z włoskim akcentem i zmiękcza część głosek.
+{% endembed %}
 
-## Pater noster – Modlitwa Pańska <a id="pater-noster"></a>
+## Pater noster – Modlitwa Pańska <a href="#pater-noster" id="pater-noster"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -170,9 +180,9 @@ Ojcze nasz, któryś jest w niebie: święć się imię Twoje, przyjdź Królest
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://youtu.be/psGt96X4lQw" caption="" %}
+{% embed url="https://youtu.be/psGt96X4lQw" %}
 
-## Ave Maria – Zdrowaś Maryjo <a id="ave-maria"></a>
+## Ave Maria – Zdrowaś Maryjo <a href="#ave-maria" id="ave-maria"></a>
 
 {% tabs %}
 {% tab title="Tekst łaciński" %}
@@ -193,4 +203,3 @@ Zdrowaś Maryjo, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewia
 Święta Maryjo, Matko Boża, módl się za nami grzesznymi teraz i w godzinę śmierci naszej. Amen.
 {% endtab %}
 {% endtabs %}
-

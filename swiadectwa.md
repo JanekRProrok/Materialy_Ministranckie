@@ -14,13 +14,12 @@ Jeżeli ktoś czułby potrzebę podzielenia się z innymi świadectwem działani
 
 **74.** Jeśli zajdzie potrzeba, aby świecki przekazał wiernym zgromadzonym w kościele jakieś informacje albo świadectwo o życiu chrześcijańskim, należy to zasadniczo przenieść poza celebrację Mszy świętej. Z poważnych jednak przyczyn można takie informacje lub świadectwa przekazać po odmówieniu przez kapłana modlitwy po Komunii. Praktyka ta nie może stać się jednak zwyczajem. Co więcej, informacje te i świadectwa w żadnym razie nie powinny posiadać takich cech, aby mogły być kojarzone z homilią, ani być powodem nie wygłoszenia homilii w ogóle.
 
-**161.** Jak już zostało powiedziane, homilia podczas Mszy świętej ze względu na swoje znaczenie i naturę jest zarezerwowana kapłanowi lub diakonowi. Co do pozostałych form przepowiadania, jeśli w określonych okolicznościach domaga się tego konieczność albo gdy to w szczególnych przypadkach zaleca pożytek, do przepowiadania w kościele lub w kaplicy poza Mszą świętą można dopuścić wiernych świeckich, zgodnie z przepisami prawa. Może to mieć miejsce jedynie z powodu małej liczby wyświęconych szafarzy w niektórych miejscach w celu ich uzupełnienia; z tego całkowicie wyjątkowego przypadku nie wolno czynić zwyczaju ani uważać go za autentyczną promocję laikatu. Ponadto wszyscy powinni pamiętać, że władza na tego rodzaju zezwolenie należy do ordynariuszy miejsca i to jedynie jednorazowo \(ad actum\), nie zaś do innych, nawet prezbiterów lub diakonów.
+**161.** Jak już zostało powiedziane, homilia podczas Mszy świętej ze względu na swoje znaczenie i naturę jest zarezerwowana kapłanowi lub diakonowi. Co do pozostałych form przepowiadania, jeśli w określonych okolicznościach domaga się tego konieczność albo gdy to w szczególnych przypadkach zaleca pożytek, do przepowiadania w kościele lub w kaplicy poza Mszą świętą można dopuścić wiernych świeckich, zgodnie z przepisami prawa. Może to mieć miejsce jedynie z powodu małej liczby wyświęconych szafarzy w niektórych miejscach w celu ich uzupełnienia; z tego całkowicie wyjątkowego przypadku nie wolno czynić zwyczaju ani uważać go za autentyczną promocję laikatu. Ponadto wszyscy powinni pamiętać, że władza na tego rodzaju zezwolenie należy do ordynariuszy miejsca i to jedynie jednorazowo (ad actum), nie zaś do innych, nawet prezbiterów lub diakonów.
 
 ## Materiały dodatkowe
 
-{% embed url="https://opoka.org.pl/biblioteka/W/WP/pawel\_vi/audiencje/ag\_10011968.html" caption="" %}
+{% embed url="https://opoka.org.pl/biblioteka/W/WP/pawel_vi/audiencje/ag_10011968.html" %}
 
 ## Bibliografia
 
 * Congregatio de Cultu Divino et Disciplina Sacramentorum, _Instructio Redemptionis sacramentum_ – _De quibusdam observandis et vitandis circa Sanctissimam Eucharistiam_, Roma 2004 Kongregacja ds. Kultu Bożego i Dyscypliny Sakramentów, _Instrukcja "Redemptionis sacramentum"_, Rzym 2004
-

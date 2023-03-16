@@ -2,25 +2,29 @@
 
 ## Materiały
 
-{% file src="../.gitbook/assets/mszal\_wielki\_czwartek.pdf" caption="Mszał Rzymski" %}
+{% file src="../.gitbook/assets/Mszal_Wielki_Czwartek.pdf" %}
+Mszał Rzymski
+{% endfile %}
 
-{% embed url="https://github.com/JanekRProrok/Triduum\_Sacrum" caption="Aktualne materiały" %}
+{% embed url="https://github.com/JanekRProrok/Triduum_Sacrum" %}
+Aktualne materiały
+{% endembed %}
 
-Wszystkie aktualne materiały są dostępne pod powyższym [linkiem](https://github.com/JanekRProrok/Triduum_Sacrum).
+Wszystkie aktualne materiały są dostępne pod powyższym [linkiem](https://github.com/JanekRProrok/Triduum\_Sacrum).
 
-**Wersja ZIP do pobrania jest dostępna** [**tutaj**](https://github.com/JanekRProrok/Triduum_Sacrum/releases)**.**
+**Wersja ZIP do pobrania jest dostępna** [**tutaj**](https://github.com/JanekRProrok/Triduum\_Sacrum/releases)**.**
 
 ### Bibliografia
 
 Na podstawie:
 
-* Kongregacja Kultu Bożego i Dyscypliny Sakramentów, [_List okólny o przygotowaniu i obchodzeniu Świąt Paschalnych "Paschalis sollemnitatis"_](https://liturgia.wiara.pl/files/11/03/03/183281_list_okolny.pdf), Rzym 1988 \[dostęp: 23:05 29.08.2019\]
+* Kongregacja Kultu Bożego i Dyscypliny Sakramentów, [_List okólny o przygotowaniu i obchodzeniu Świąt Paschalnych "Paschalis sollemnitatis"_](https://liturgia.wiara.pl/files/11/03/03/183281\_list\_okolny.pdf), Rzym 1988 \[dostęp: 23:05 29.08.2019]
 * _Mszał Rzymski dla Diecezji Polskich_, Poznań 2013
 * Duszpasterstwo Służby Liturgicznej Archidiecezji Poznańskiej, _Kurs Ceremoniarza_
 
 ## Msza Wieczerzy Pańskiej
 
-### Opcjonalne [komentarze](https://github.com/JanekRProrok/Triduum_Sacrum/tree/master/Komentarze)
+### Opcjonalne [komentarze](https://github.com/JanekRProrok/Triduum\_Sacrum/tree/master/Komentarze)
 
 * **Wprowadzający przed Liturgią**
 * Przed hymnem Gloria
@@ -48,12 +52,12 @@ Na podstawie:
 * Jeżeli kapłan zdejmuje ornat na czas Mandatum, nie odkładamy go na ołtarzu. Można przygotować wieszak/dodatkowy stolik/ministranta, który zaniesie go do zakrystii/będzie trzymał ornat.
 * W trakcie procesji do "Ciemnicy" można już obnażać ołtarz.
 * Po Liturgii należy obnażyć wszystkie ołtarze w kościele.
-* Po Liturgii należy, jeśli to możliwe, wynieść Krzyże z kościoła. Te które pozostały w kościele, należy zasłonić \(jeżeli nie zostały zasłonięte przed 5. Niedzielą Wielkiego Postu\).
+* Po Liturgii należy, jeśli to możliwe, wynieść Krzyże z kościoła. Te które pozostały w kościele, należy zasłonić (jeżeli nie zostały zasłonięte przed 5. Niedzielą Wielkiego Postu).
 * Po Mszy nie zapalamy lamp przed obrazami świętych.
 * Usunąć z prezbiterium w trakcie/po Mszy dzwony, dzwonki i gong.
 
 {% hint style="danger" %}
-* **Zostawia się na ołtarzu cyborium \(puszkę\) po puryfikacji.**
+* **Zostawia się na ołtarzu cyborium (puszkę) po puryfikacji.**
 {% endhint %}
 
 ### Proponowany podział funkcji
@@ -91,4 +95,3 @@ Kolejność według procesji wejścia:
 * **Modlitwa powszechna**
 * **Pateny**
 * **Życzenia dla Kapłanów**
-
